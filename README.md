@@ -1,4 +1,4 @@
-```markdown
+
 # 🌦️ Django Weather App – Real-Time Forecasts with API Integration  
 
 🚀 **Just Built a Dynamic Weather App Using Django & OpenWeatherMap API!**  
@@ -32,9 +32,9 @@ python manage.py runserver
 
 Would love your feedback! 👇 #Django #Python #API #WebDev #OpenSource  
 
----  
+
 **Note:** Replace `API_KEY` with your OpenWeatherMap API key for full functionality.  
-```
+
 
 ## 📞 Contact Information 
 
